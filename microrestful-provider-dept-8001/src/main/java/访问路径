@@ -1,0 +1,5 @@
+在hosts 中配置
+
+增加部门URL:dept-8001.com:8001/dept/add?dname=增加&loc=位置
+部门列表URL:http://dept-8001.com:8001/dept.list;
+查询部门URL:http://dept-8001.com:8001/dept/get?deptno=1;
